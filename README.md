@@ -1,0 +1,2 @@
+# Plugin
+Cartella plugin Addon
